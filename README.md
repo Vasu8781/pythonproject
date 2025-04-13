@@ -1,4 +1,4 @@
-# PythonProject123
+# PythonProject
 
 This is a simple Python project that implements a basic calculator. It allows users to perform arithmetic operations like addition, subtraction, multiplication, and division.
 
